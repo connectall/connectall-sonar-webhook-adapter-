@@ -1,4 +1,4 @@
-# ConnectALL SONAR Adapter 
+# ua-sonar-push
 
 ConnectALL Sonar Adapter is developed as an extension to the Universal adapter capability of ConnectALL. This adapter specifications will let the user use Sonar with Webhooks to read and write the data in to Sonar. 
 
